@@ -1,3 +1,5 @@
+[![solarized dualmode](https://github.com/wassim6/esprit-2013-1a3-sharp-vision-sharp-fighter/blob/master/Resources/Images/logo2.png)](#features)
+
 Sharp Fighters is a 2D fight game using allegro game programming library.
 
 Sharp Fighters is a School Project for ESPRIT first students, realised by the team Sharp-Vision.
@@ -6,7 +8,7 @@ Before downloading the source, please have these packages installed : liballegro
 
 Also, it is best to have your graphics card drivers updated.
 
-Labels
+Labels :
 Linux, Game, C, Allegro, AllegroGL, OpenGL, 2D, ESPRIT, 1A, ScriptShell
 
 Members : 
