@@ -1,4 +1,4 @@
-![alt tag](https://github.com/wassim6/esprit-2013-1a3-sharp-vision-sharp-fighter/blob/master/Resources/Images/logo2.png)
+![alt tag](https://raw.githubusercontent.com/wassim6/esprit-2013-1a3-sharp-vision-sharp-fighter/master/Resources/Images/logo2.png)
 
 Sharp Fighters is a 2D fight game using allegro game programming library.
 
